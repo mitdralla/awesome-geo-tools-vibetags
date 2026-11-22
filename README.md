@@ -247,6 +247,12 @@ Publishers can separately allow search indexing, deny training use, and specify 
 - `FacebookExternalHit` — Social sharing previews (OG tags) — bypasses robots.txt for security checks
 - `DeepSeekBot` — DeepSeek AI crawler
 
+### Tool for testing AI crawler access
+
+| Tool | Description | Type | Link |
+| --- | --- | --- | --- |
+| Mydentify AI Crawler Access Checker | Checks whether public pages are reachable by documented AI crawler user agents and explains `robots.txt` and page-level access signals; it does not guarantee indexing, citations, or traffic. | Free hosted tool | [Open the checker](https://mydentify.com/tools/ai-crawler-access-checker) |
+
 ## AI Transparency & Compliance
 
 ### Tools & Standards
