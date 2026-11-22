@@ -251,7 +251,7 @@ Publishers can separately allow search indexing, deny training use, and specify 
 
 | Tool | Description | Type | Link |
 | --- | --- | --- | --- |
-| Mydentify AI Crawler Access Checker | Checks whether public pages are reachable by documented AI crawler user agents and explains `robots.txt` and page-level access signals; it does not guarantee indexing, citations, or traffic. | Free hosted tool | [Open the checker](https://mydentify.com/tools/ai-crawler-access-checker) |
+| Mydentify AI Crawler Access Checker | Checks public pages against documented AI crawler user agents and explains `robots.txt` and page-level access signals; it does not guarantee indexing, citations, or traffic. | Free hosted checker; MIT-licensed CLI | [Mydentify](https://mydentify.com/tools/ai-crawler-access-checker) · [CLI source](https://github.com/mitdralla/mydentify-ai-crawler-access-checker) |
 
 ## AI Transparency & Compliance
 
